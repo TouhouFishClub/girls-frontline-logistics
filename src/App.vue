@@ -59,11 +59,11 @@ html, body, #app{
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
+  color: #333;
 }
 
 .el-header{
-  background-color: #000;
+  background-color: #3c434b;
   color: #fff;
   line-height: 60px;
   font-size: 24px;
